@@ -1,4 +1,6 @@
 # analisisExcel
 ## Contexto
 Este conjunto de datos contiene información detalllada acerca de las ventas de la tienda x de Enero a marzo del2025
-![Etiquetas de vela -  Brujas 2 COPIA (1)](https://github.com/user-attachments/assets/d22a5b0a-3520-488d-94a3-4339c3a39086)
+Esto es una prueba para ver como utilizar esta plataforma
+Cuando vas  a poner una imagen puedes arrastrar la imagen del lugar donde estas (la ubicacion)
+![SEPARACION](https://github.com/user-attachments/assets/8ab33dc1-1fb5-4cc4-b712-6fc7a16921b8)
